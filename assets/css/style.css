@@ -1,0 +1,37 @@
+body{ background-image: url(https://wallpaper4k.com.br/wp-content/uploads/2022/10/wallpapers-branco-em-4k-7.jpg);
+
+}
+    header {
+    background-color: rgb(208, 9, 9);
+    text-align: center;
+}
+body {
+    margin: 0%;
+
+}
+a {
+    text-decoration: none; text-align: center; color: black; font-family: Verdana;
+
+}
+#h2_1 { font-family: Verdana;
+
+}
+p{
+    text-align: justify;
+}
+#foto_section{
+    text-align: center;
+}
+#legenda_foto{
+    text-align: center;
+}
+#legenda_footer{
+    text-align: center;
+    background-color: rgb(190, 2, 2);
+    color: rgb(0, 0, 0);
+    margin: 0%;
+    padding: 15px;
+}
+#h2_2{
+    font-family: Verdana;
+}
